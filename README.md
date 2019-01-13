@@ -1,4 +1,4 @@
-#Todo Tasks App made in MERN Stack
+# Todo Tasks App made in MERN Stack
 
 A personal project for practice my skills
 
